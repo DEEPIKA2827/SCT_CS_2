@@ -40,17 +40,11 @@ The script scrambles the pixel values of an image to encrypt it and then restore
 
 ## 📸 Project Workflow
 
-### 1️⃣ Original Image
-![Original](ORIGINAL.png)
+![Original](ImageEncryptionProject/ORIGINAL.png)
+![Encrypted](ImageEncryptionProject/encrypted.png)
+![Decrypted](ImageEncryptionProject/decrypted.png)
+![Swapped](ImageEncryptionProject/swapped.png)
 
-### 2️⃣ Encrypted Image
-![Encrypted](encrypted.png)
-
-### 3️⃣ Decrypted Image
-![Decrypted](decrypted.png)
-
-### 4️⃣ Swapped Image
-![Swapped](swapped.png)
 
 ---
 
