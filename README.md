@@ -25,7 +25,7 @@ Later, swapping the channels back restores the **original image** (decryption).
 
 ## 📂 Output Example
 ### Original vs Encrypted (Swapped)
-![Original](parrot.png) ![Encrypted](swapped.png)
+![Original](ORIGINAL.png) ![Encrypted](swapped.png)
 
 ---
 
