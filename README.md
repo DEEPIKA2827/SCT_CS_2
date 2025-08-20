@@ -22,14 +22,39 @@ Later, swapping the channels back restores the **original image** (decryption).
 - NumPy
 
 ---
+# 🔐 Image Encryption Project
 
-## 📂 Output Example
-### Original vs Encrypted (Swapped)
-![Original](ORIGINAL.png) ![Encrypted](swapped.png)
+This project demonstrates **image encryption and decryption using Python**.  
+The script scrambles the pixel values of an image to encrypt it and then restores the original image by decrypting it.
 
 ---
 
-## 🖥️ How to Run
+## 📂 Files in the Repository
+- `image_encryption.py` → Python script for encryption & decryption  
+- `ORIGINAL.png` → Original image used  
+- `encrypted.png` → Encrypted image output  
+- `decrypted.png` → Decrypted image output  
+- `swapped.png` → Intermediate swapped image  
+
+---
+
+## 📸 Project Workflow
+
+### 1️⃣ Original Image
+![Original](ORIGINAL.png)
+
+### 2️⃣ Encrypted Image
+![Encrypted](encrypted.png)
+
+### 3️⃣ Decrypted Image
+![Decrypted](decrypted.png)
+
+### 4️⃣ Swapped Image
+![Swapped](swapped.png)
+
+---
+
+## 🚀 How to Run
 ```bash
-pip install opencv-python numpy
-python main.py
+python image_encryption.py
+
